@@ -4,9 +4,7 @@ Unity/C#で制作した2Dアクションゲームです。
 
 ## 関連リンク
 
-- [オリジナル版(C++/DXライブラリ)](https://github.com/seitaro-tsuji/LiarsRoad-Portfolio)
-
-- [開発用リポジトリ(Unityプロジェクト全体)](https://github.com/seitaro-tsuji/LiarsRoadRemake-Development)
+[オリジナル版(C++/DXライブラリ)](https://github.com/seitaro-tsuji/LiarsRoad-Portfolio)
 
 ## プレイ動画
 
