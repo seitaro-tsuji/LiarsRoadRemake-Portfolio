@@ -10,7 +10,7 @@ Unity/C#で制作した2Dアクションゲームです。
 
 ## プレイ動画
 
-
+https://youtu.be/Q0NbtuXjiMI
 
 ## スクリーンショット
 
