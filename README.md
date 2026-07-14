@@ -32,9 +32,8 @@ https://youtu.be/Q0NbtuXjiMI
 
 ## 使用技術
 
-* Unity
+* Unity 6
 * C#
-* Visual Studio
 
 ## 制作形態
 
